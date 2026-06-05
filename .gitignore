@@ -1,3 +1,43 @@
+# Environment variables and secrets
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Log files
+logs/
+*.log
+
+# Generated data files
+data/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Test and coverage reports
+.coverage
+htmlcov/
+.pytest_cache/
+
 venv/
 __pycache__/
 *.pyc
